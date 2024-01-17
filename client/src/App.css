@@ -1,0 +1,38 @@
+.App {
+  padding: 10px;
+  margin: 5px;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+}
+.search {
+  margin: 5px 5px;
+  width: 10rem;
+  padding: 10px;
+  font-size: 15px;
+  outline: none;
+  border: red;
+  background-color: rgb(245, 237, 237);
+}
+.list {
+  padding: 0;
+  align-items: left;
+  list-style-type: none;
+}
+.listItem {
+  font-size: 16px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: #555;
+  font-weight: 300;
+}
+.btn {
+  margin: 5px;
+  width: auto;
+  padding: 5px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(232, 241, 232);
+  cursor: pointer;
+}
